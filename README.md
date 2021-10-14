@@ -1,6 +1,6 @@
 # Lab4_Criptografia
 Desarrollo lab 4
-Pasos para ejecutar:
+Pasos para ejecutar: \n
   1.- ejecutar codigo
   2.- escoger si es por input o por archivo
   3.- si es por archivo, colocar el nombre del archivo (dentro de la misma carpeta)
